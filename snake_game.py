@@ -3,6 +3,7 @@ from tkinter import *
 import random
 import pygame
 
+#main code I learnt from Bro Code on youtube
 
     #Snake Game
     #settings
